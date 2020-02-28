@@ -1,0 +1,15 @@
+.layout {
+  min-height: 100%;
+
+  &__navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+  }
+
+  &__body {
+    min-height: 100vh;
+  }
+}
